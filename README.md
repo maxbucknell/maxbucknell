@@ -1,7 +1,5 @@
 # Hi! Welcome to my Github.
 
-![](https://nonsense.mpwb.xyz/about/photos/dm.jpg)
-
 The most important thing about this profile is I'm not really here that much.
 Well, my work goes here (you probably can't see it), but my [personal projects
 live on infrastructure I control][explore].

@@ -39,6 +39,10 @@ haven't gotten to it yet.
 I went arguably way too hard with this, so it has a comprehensive help text,
 which is where I'd recommend you go if you're curious.
 
+<details>
+
+<summary>See some (much) older projects on my Github</summary>
+
 ## Archives
 
 One thing my Github has that won't be on my Forgejo instance is a whole bunch of
@@ -80,6 +84,8 @@ accompanying post can be read on the [Wayback Machine][wayback].
 I wanted to build a symbolic mathematial engine! Something that could do
 pretty-printed calculations. I never got to building an actual parser, but the
 structure took inspiration from JSX and other similar technologies.
+
+</summary>
 
 [explore]: https://code.mpwb.xyz/explore/repos
 [website]: https://nonsense.mpwb.xyz
